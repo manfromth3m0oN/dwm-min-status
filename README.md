@@ -3,6 +3,10 @@ A minimal status for DWM
 
 ## Install
 
+### Requirements
+
+* Python3
+
 Install for this script is as simple as cloning the repo and putting it in your `.xinitrc`.
 It should look something like this
 ```
